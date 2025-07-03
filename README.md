@@ -1,6 +1,6 @@
 # LDA-Hotel-review
 
-# Hotel Review Topic Modelling (Assignment Part 3)
+# Hotel Review Topic Modelling 
 
 This repository contains the workflow and code for analysing customer satisfaction drivers through topic modelling on hotel reviews.
 
